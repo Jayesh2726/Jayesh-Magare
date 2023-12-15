@@ -1,4 +1,4 @@
-![logo](https://github.com/Jayesh2726/Jayesh-Magare/blob/main/image.png)
+![logo](https://github.com/Jayesh2726/Jayesh-Magare/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jayesh Magare</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
